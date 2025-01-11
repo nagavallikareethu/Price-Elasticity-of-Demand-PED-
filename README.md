@@ -81,3 +81,6 @@ To find PED, businesses collect data like product prices and sales. With this da
 Price Elasticity of Demand helps businesses understand how their customers react to price changes. By calculating PED, businesses can make smarter decisions about pricing, sales, and promotions. It’s like a guide to help them balance price and sales to maximize profits.  
 
 Using tools like Python and data visualization makes it easier to analyze PED and create better strategies!
+
+
+code :- "https://colab.research.google.com/drive/1cKB5qA0SRRtetNX57oX5Lwp0co8o96Am?authuser=0#scrollTo=JdjNxE4MsxIp"
